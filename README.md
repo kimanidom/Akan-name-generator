@@ -41,4 +41,6 @@ If you encounter any issues or have ideas for improvements, feel free to reach o
 License
 
 MIT LicenseCopyright (c) 2025 [Dominic kimani]
+https://akan-name-generator-lake.vercel.app/
+
 
